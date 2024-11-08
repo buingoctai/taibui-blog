@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'TaiBui Experiences',
-  domain: 'software-engineer.taibui.it',
+  domain: 'simpledev.org',
   author: 'Tai Bui',
 
   // open graph metadata (optional)
