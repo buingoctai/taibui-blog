@@ -14,11 +14,11 @@ export default siteConfig({
   author: 'Tai Bui',
 
   // open graph metadata (optional)
-  description: 'Example Next.js Notion Starter Kit Site',
+  description: 'Journey of Tai Bui',
 
   // social usernames (optional)
   github: 'buingoctai',
-  linkedin: 'bùi-ngọc-tài-0010a6152',
+  linkedin: 'tài-bùi-0010a6152',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
